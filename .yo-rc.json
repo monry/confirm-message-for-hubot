@@ -1,0 +1,20 @@
+{
+  "generator-npm-es6": {
+    "lib": {
+      "name": {
+        "original": "confirm-message-for-hubot",
+        "camelCase": "confirmMessageForHubot",
+        "slug": "confirm-message-for-hubot"
+      },
+      "include": {
+        "examples": true,
+        "docs": true
+      },
+      "author": {
+        "email": "tetsuya.mori@kidsstar.co.jp",
+        "name": "Tetsuya Mori"
+      },
+      "license": "MIT"
+    }
+  }
+}
